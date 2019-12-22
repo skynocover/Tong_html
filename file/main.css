@@ -1,0 +1,28 @@
+#BOX{
+    width:22%;
+    padding:5px;      
+    float:left;
+    text-align:center;
+}
+#Rulers{
+    width:20%;
+    margin-top:50px;
+    margin-right:20px;    
+    float:right;
+    text-align:center;
+}
+#Header{
+    text-align:center;
+    line-height:5px;
+}
+#Body{  
+    margin-top:30px;  
+    width:55%;  
+    text-align:center;
+    float:left;
+}
+        
+        
+#topbtm{
+    padding-left: 0px;
+}
